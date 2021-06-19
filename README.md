@@ -1,4 +1,4 @@
-Get WhatsApp Contacts
+# Get WhatsApp Contacts
 
 Let's you get your contact numbers to a file.
 

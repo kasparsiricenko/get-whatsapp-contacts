@@ -1,9 +1,11 @@
 # Get WhatsApp Contacts CLI
 
-Let's you get your contact numbers to a file.
+Let's you from Web WhatsApp get contact numbers to a file.
 
 To use it you have to build it using scripts below.
 Run built executable in terminal with with flag --help to see run options.
+
+Feel free to add some options. PRs will be easily accepted.
 
 ## Available Scripts
 
